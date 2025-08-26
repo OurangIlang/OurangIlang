@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Rasya Khairi Najib**.<br>
 
-Saya seorang **Mahasiswa** di [Politeknik STMI Jakarta].<br>
+Saya kini merupakan seorang **Mahasiswa** di *Politeknik STMI Jakarta* <br>
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/rasya-khairi-110425316/) ku ya.
