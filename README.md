@@ -8,7 +8,7 @@ Saya kini merupakan seorang **Mahasiswa** di *Politeknik STMI Jakarta* <br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/rasya-khairi-110425316/) ku ya.
 
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/OurangIlang">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
