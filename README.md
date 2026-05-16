@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 Perkenalkan nama saya **Rasya Khairi Najib**.<br>
-
 Saya kini merupakan seorang **Mahasiswa** di *Politeknik STMI Jakarta* <br>
+Saya berantusias dalam mempelajari Seputar Teknologi Informasi khususnya pada bidang AI
 
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/rasya-khairi-110425316/) ku ya.
+Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/rasya-khairi-najib-110425316/) saya ya.
 
 <p align="left">
 <a href="https://github.com/OurangIlang">
